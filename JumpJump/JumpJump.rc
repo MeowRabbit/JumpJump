@@ -1,0 +1,133 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "..\\image\\BlackRabbit.bmp"
+
+IDB_BITMAP2             BITMAP                  "..\\image\\Ground.bmp"
+
+IDB_BITMAP3             BITMAP                  "..\\image\\StartGround.bmp"
+
+IDB_BITMAP4             BITMAP                  "..\\image\\Input.bmp"
+
+IDB_BITMAP5             BITMAP                  "..\\image\\PauseButton.bmp"
+
+IDB_BITMAP6             BITMAP                  "..\\image\\Item.bmp"
+
+IDB_BITMAP7             BITMAP                  "..\\image\\BlackRabbit_Shiled.bmp"
+
+IDB_BITMAP8             BITMAP                  "..\\image\\Money.bmp"
+
+IDB_BITMAP9             BITMAP                  "..\\image\\Upgrade_Background_Front.bmp"
+
+IDB_BITMAP10            BITMAP                  "..\\image\\Upgrade_Background_Back.bmp"
+
+IDB_BITMAP11            BITMAP                  "..\\image\\Upgrade_Block.bmp"
+
+IDB_BITMAP12            BITMAP                  "..\\image\\Upgrade_Start_Button.bmp"
+
+IDB_BITMAP13            BITMAP                  "..\\image\\Upgrade_Main_Background.bmp"
+
+IDB_BITMAP14            BITMAP                  "..\\image\\Start_Main_Background.bmp"
+
+IDB_BITMAP15            BITMAP                  "..\\image\\Start_Start_Button2.bmp"
+
+IDB_BITMAP16            BITMAP                  "..\\image\\Start_Panel.bmp"
+
+IDB_BITMAP17            BITMAP                  "..\\image\\Start_Title.bmp"
+
+IDB_BITMAP18            BITMAP                  "..\\image\\Game_Main_Background.bmp"
+
+IDB_BITMAP19            BITMAP                  "..\\image\\Game_HP_Background.bmp"
+
+IDB_BITMAP20            BITMAP                  "..\\image\\Game_HP_End.bmp"
+
+IDB_BITMAP21            BITMAP                  "..\\image\\Trap.bmp"
+
+IDB_BITMAP22            BITMAP                  "..\\image\\GameOver_Background_1.bmp"
+
+IDB_BITMAP23            BITMAP                  "..\\image\\Font.bmp"
+
+IDB_BITMAP24            BITMAP                  "..\\image\\GameOver_HighScore.bmp"
+
+IDB_BITMAP25            BITMAP                  "..\\image\\Upgrade_Icon.bmp"
+
+IDB_BITMAP26            BITMAP                  "..\\image\\Game_Pause_Screen.bmp"
+
+IDB_BITMAP27            BITMAP                  "..\\image\\Game_Pause_Text.bmp"
+
+IDB_BITMAP28            BITMAP                  "..\\image\\Manual.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "..\\image\\Icon.ico"
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

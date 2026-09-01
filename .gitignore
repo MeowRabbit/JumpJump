@@ -1,0 +1,32 @@
+# ─── 리소스 ────────────────────────────────────────────────
+# 이미지 리소스는 메이플스토리 공식 리소스 사이트에서 받은 것이라
+# 저장소에 포함하지 않습니다. 자세한 내용은 README.md 참조.
+image/
+
+# ─── 저장 데이터 ───────────────────────────────────────────
+*.bin
+
+# ─── Visual Studio 산출물 ──────────────────────────────────
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+*.aps
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.ipch
+*.obj
+*.res
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.FileListAbsolute.txt
